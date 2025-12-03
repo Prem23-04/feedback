@@ -235,23 +235,6 @@ body {
   <footer class="footer">
     <p>© 2025 Your Name | All Rights Reserved</p>
   </footer>
-  <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Thank You</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-
-<body>
-  <div class="container">
-    <h2>Thank You!</h2>
-    <p>Your feedback has been submitted successfully.</p>
-
-    <a href="home.html" class="btn">Back to Home</a>
-  </div>
-</body>
-</html>
 
 </body>
 </html># feedback
